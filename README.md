@@ -24,6 +24,6 @@ LUMIÈRE is a modern and responsive restaurant website designed with a luxurious
 
 ## Live Demo
 
-https://lumiere-restaurant-yq2o.vercel.app/
+[https://lumiere-restaurant-yq2o.vercel.app/](https://lumiere-restaurant-6mk3.vercel.app/?utm_source=chatgpt.com)
 
 
